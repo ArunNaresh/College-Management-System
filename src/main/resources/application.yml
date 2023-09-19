@@ -35,7 +35,7 @@ spring:
       ddl-auto: update
     show-sql: true
 welcome:
-  message: Welcome to Spring Application Development!!
+  message: Welcome to Spring Application Development QA!!
 
 management:
   endpoints:
